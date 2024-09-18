@@ -45,7 +45,7 @@ I am a data science enthusiast currently studying Computer Engineering at Tanta 
 - **Repo**: [ML Dimension Reduction (50 Startups)](https://github.com/FarahElshenawi/ml-dimension-reduction-50-startups.git)
 
 ## Contact Information
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/farah-elshenawy-368bb8218/)
-- **Email**: [Email](farah.elshenawy2@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/farah-elshenawy-368bb8218/)
+- **Email**: [My Email](farah.elshenawy2@gmail.com)
 
 
